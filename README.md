@@ -14,7 +14,7 @@
 <div>
     <h1 align="center">The final look</h1>
     <div align="center">
-        <img src="s.png">
+        <img src="S.png">
     </div>
 </div>
 <br /><br />
